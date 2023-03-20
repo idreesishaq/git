@@ -11,7 +11,7 @@
 | $ **`ls -la`** |  | 
 | $ **`git add -A`** | |
 | $ **`git commit -m "initial commit"`** | | 
-|  |  |
+| $**`git clone https://github.com/idreesishaq/Books`** |  |
 |  |  |
 |  |  |
 |  |  |
