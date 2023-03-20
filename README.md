@@ -11,7 +11,7 @@
 | $ **`ls -la`** |  | 
 | $ **`git add -A`** | |
 | $ **`git commit -m "initial commit"`** | | 
-| $**`git clone https://github.com/idreesishaq/Books`** |  |
+| $**`git clone https://github.com/idreesishaq/Books`** | To start working with an existing project and you are given a URL to the project's remote repository on a server. No matte what format the URL is, just pour it into the `git clone` command.|
 |  |  |
 |  |  |
 |  |  |
