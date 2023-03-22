@@ -16,7 +16,7 @@
 | $**`git add index.html`**  | Before we commit any changes to be tracked by git, we add the file. It is called **staging** |
 | $**`git add --all`** | This command is used for staging more than one file. Simply it stages all the tracked and untracked, modified files. The shorthand command for `git add --all` is `git add -A` |
 | $**`git rm error.html`** | By this command `git add --all` we add all the files in the staging area for commiting. what we have to do if we want all the files to be stages except *error.html* or any other file. In that case we simply remove that file to be staged by `git rm` command means **removal** preceding file name that we want to remove from staging.  |
-| $**`git log`** | `git log` command is used to display all the commit's history of a project |
+| $**`git log`** | `git log` command is used to display all the commit's history of a project. It show the metadata about every commit, like <br> - Hash value <br> - Author <br> - Date <br> -commited message.|
 | $**``** |  |
 | $**``** |  |
 | $**``** |  |
