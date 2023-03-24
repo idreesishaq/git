@@ -18,7 +18,7 @@
 | $**`git rm error.html`** | By this command `git add --all` we add all the files in the staging area for commiting. what we have to do if we want all the files to be stages except *error.html* or any other file. In that case we simply remove that file to be staged by `git rm` command means **removal** preceding file name that we want to remove from staging.  |
 | $**`git log`** | `git log` command is used to display all the commit's history of a project. It show the metadata about every commit, like <br> * Hash value <br> * Author <br> * Date <br> * commited message.|
 | $**`git log -p`** | the flag "-p" following by `git log` command is used to display the detailed changes that happened in each commit. |
-| $**``** |  |
+| $**`git branch contact-form`** | Branching is one of the most powerful feature of git. To create new branch we simply use the `git branch` command preceded by the branch name. for example in this case `git branch contact-form`. here we create a new branch of name "contact-form". |
 | $**``** |  |
 | $**``** |  |
 | $**``** |  |
