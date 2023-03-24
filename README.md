@@ -23,7 +23,7 @@
 | $**`git branch -v`** | the "-v" flag provides us with a little more information than usual along listing branches. |
 | $**`git stash`** | We do not use staging and commiting for temporary file saving or any half-done work. For these temporarily changes git has an special feature `git stash`. |
 | $**`git stash list`** | To get overview at any stage of our current Stashes, the `git stash list ` command is used. |
-| $**``** |  |
+| $**`git checkout master`** | We switch anytime form one brach to another branch. We are working now at branch **contact-form**. Now want to switch to out main **master** branch. So, we have a git command `git checkout` and then name the branch-name into which you want to go.  |
 | $**``** |  |
 |  |  |
 |  |  |
