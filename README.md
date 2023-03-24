@@ -21,7 +21,7 @@
 | $**`git branch contact-form`** | Branching is one of the most powerful feature of git. To create new branch we simply use the `git branch` command preceded by the branch name. for example in this case `git branch contact-form`. here we create a new branch of name "contact-form". |
 | $**`git branch`** | `git branch` commands list all the branches. |
 | $**`git branch -v`** | the "-v" flag provides us with a little more information than usual along listing branches. |
-| $**``** |  |
+| $**`git stash`** | We do not use staging and commiting for temporary file saving or any half-done work. For these temporarily changes git has an special feature `git stash`. |
 | $**``** |  |
 | $**``** |  |
 | $**``** |  |
