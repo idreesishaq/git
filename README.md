@@ -38,4 +38,7 @@
 | $**`git branch -d contact-form`** |  |
 | $**`git branch -dr origin/contact-form`** |  |
 | $**`git commit --amend -m "This is the correct message"`** |  |
-| $**``** |  |
+| $**`git checkout HEAD`** |  |
+| $**`git reset --hard HEAD`** |  |
+| $**`git revert 2b504be`** |  |
+| $**`git reset --hard 2be18d9`** |  |
