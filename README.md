@@ -27,8 +27,15 @@
 | $**`git merge contact-form`** | Now We have switched to our main **master** branch. we wanna merge our work done in **contact-form** branch into **master** branch. We have a command for this task `git merge contact-form`. |
 | $**`git remote add URL`** |  |
 | $**`git remote -v`** |  |
-| $**``** |  |
-| $**``** |  |
-| $**``** |  |
-| $**``** |  |
+| $**`git branch va`** |  |
+| $**`git fetch <repository name> From <URL>`** |  |
+| $**`git push`** |  |
+| $**`git fetch origin`** |  |
+| $**`git log origin/master`** |  |
+| $**`git pull`** |  |
+| $**`git push -u origin contact-form`** |  |
+| $**`git branch -vva`** |  |
+| $**`git branch -d contact-form`** |  |
+| $**`git branch -dr origin/contact-form`** |  |
+| $**`git commit --amend -m "This is the correct message"`** |  |
 | $**``** |  |
