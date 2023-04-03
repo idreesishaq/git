@@ -43,6 +43,9 @@
 | $**`git revert 2b504be`** |  |
 | $**`git reset --hard 2be18d9`** |  |
 | $**`git diff`** |  |
-| $**``** |  |
+| $**`git submodule add URL`** | git submodule add https://github.com/djyde/ToProgress |
+| $**`git log --oneline --decorate`** |  |
+| $**`git submodule status`** |  |
+
 
 
