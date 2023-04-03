@@ -42,3 +42,7 @@
 | $**`git reset --hard HEAD`** |  |
 | $**`git revert 2b504be`** |  |
 | $**`git reset --hard 2be18d9`** |  |
+| $**`git diff`** |  |
+| $**``** |  |
+
+
