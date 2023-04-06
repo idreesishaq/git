@@ -50,5 +50,6 @@
 | $**`git submodule status`** |  |
 | $**`git fetch`** |  |
 | $**`git pull origin master`** |  |
-
+| $**`git flow init`** |  |
+| $**``** |  |
 
