@@ -46,6 +46,9 @@
 | $**`git submodule add URL`** | git submodule add https://github.com/djyde/ToProgress |
 | $**`git log --oneline --decorate`** |  |
 | $**`git submodule status`** |  |
-
+| $**`git pull`** |  |
+| $**`git submodule status`** |  |
+| $**`git fetch`** |  |
+| $**`git pull origin master`** |  |
 
 
