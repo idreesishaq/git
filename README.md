@@ -51,5 +51,4 @@
 | $**`git fetch`** |  |
 | $**`git pull origin master`** |  |
 | $**`git flow init`** |  |
-| $**``** |  |
 
