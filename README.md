@@ -25,7 +25,7 @@
 | $**`git stash list`** | To get overview at any stage of our current Stashes, the `git stash list ` command is used. |
 | $**`git checkout master`** | We switch anytime form one brach to another branch. We are working now at branch **contact-form**. Now want to switch to out main **master** branch. So, we have a git command `git checkout` and then name the branch-name into which you want to go.  |
 | $**`git merge contact-form`** | Now We have switched to our main **master** branch. we wanna merge our work done in **contact-form** branch into **master** branch. We have a command for this task `git merge contact-form`. |
-| $**`git remote add URL`** |  |
+| $**`git remote add URL`** | By this command we can add a github repository to pull and push remotely. We simply write the command `git remote add` succeeded by the URL name (by naming convention it is **origin** but you can set any name, and the enter url. for example <br> `$ git remote add origin https://github.com/idreesishaq/git.git` |
 | $**`git remote -v`** |  |
 | $**`git branch va`** |  |
 | $**`git fetch <repository name> From <URL>`** |  |
