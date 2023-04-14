@@ -29,7 +29,7 @@
 | $**`git remote -v`** |  |
 | $**`git branch va`** |  |
 | $**`git fetch <repository name> From <URL>`** |  |
-| $**`git push`** |  |
+| $**`git push`** | The upload our all commit history from a project or sub project, form a local repository, We use `git push`. <br> The command `git push` requires two thing, one is the "the remote repostiory's url name" that we already have been set, and the second the "branch name" (master branch). <br> for example: ``` git push origin master ```|
 | $**`git fetch origin`** |  |
 | $**`git log origin/master`** |  |
 | $**`git pull`** |  |
