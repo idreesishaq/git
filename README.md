@@ -9,7 +9,7 @@
 | $ **`git init`** | init stands for **initialize**. It initializes a git repository to track changes. It creates a hidden folder with the name ".git" |
 | $ **`ls`** | It shows the list of files in the current folder. | 
 | $ **`ls -la`** |  | 
-| $ **`git add -A`** | |
+| $ **`git add -A`** | `git add -A` is a short hand form for the command `git add --all` which is used for staging all the files before to be commited.  |
 | $ **`git commit -m "initial commit"`** | | 
 | $**`git clone https://github.com/idreesishaq/Books`** | To start working with an existing project and you are given a URL to the project's remote repository on a server. No matte what format the URL is, just pour it into the `git clone` command. URL can take many forms: <br>`ssh://user@server/git-repo.git` <br>`user@server:git-repo.git` <br>`http://example.com/git-repo.git` <br>`https://example.com/git-repo.git` <br>`git://example.com/git-repo.git` |
 | $**`git status`** | We use `git status` to simply check out changes that we have made from the last commit. |
