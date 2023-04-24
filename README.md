@@ -27,7 +27,7 @@
 | $**`git merge contact-form`** | Now We have switched to our main **master** branch. we wanna merge our work done in **contact-form** branch into **master** branch. We have a command for this task `git merge contact-form`. |
 | $**`git remote add URL`** | By this command we can add a github repository to pull and push remotely. We simply write the command `git remote add` succeeded by the URL name (by naming convention it is **origin** but you can set any name, and the enter url. for example <br> `$ git remote add origin https://github.com/idreesishaq/git.git` |
 | $**`git remote -v`** | By this `git remote -v` command we can check the list of repository's url, that we have been add by the command `git remote add URL` for the puspose of pushing and pulling remotely. |
-| $**`git branch va`** |  |
+| $**`git branch -va`** |  |
 | $**`git fetch <repository name> From <URL>`** |  |
 | $**`git push`** | The upload our all commit history from a project or sub project, form a local repository, We use `git push`. <br> The command `git push` requires two thing, one is the "the remote repostiory's url name" that we already have been set, and the second the "branch name" (master branch). <br> for example: ``` git push origin master ```|
 | $**`git fetch origin`** |  |
