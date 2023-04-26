@@ -39,6 +39,7 @@
 | $**`git branch -dr origin/contact-form`** |  |
 | $**`git commit --amend -m "This is the correct message"`** |  |
 | $**`git checkout HEAD`** |  |
+| $**`git reset  c7770d2`** | Here c7770d2 is the seven digit hash value of one of my commit, and By this code we want the repository at that particulary point back. |
 | $**`git reset --hard HEAD`** |  |
 | $**`git revert 2b504be`** |  |
 | $**`git reset --hard 2be18d9`** |  |
